@@ -1,6 +1,6 @@
 def primes(n):
     """
-    a python implementation of the Eratothenes Sieve 
+    a python prime number generator using the Eratothenes Sieve 
     """
     sqrtN=n**0.5
     odds=[2]
